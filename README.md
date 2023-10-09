@@ -30,4 +30,4 @@ Answer the following 2 questions
 
 **Bonus Folder** [Bonus points]
 
-Enter https://shell.tech/ – Write down working password(s) as proof of completion.
+Break into https://shell.tech/ – Write down working password(s) as proof of completion.
