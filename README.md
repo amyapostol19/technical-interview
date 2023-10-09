@@ -21,7 +21,7 @@ Answer the following 2 questions
 
 **Folder 3: Repo Review**
 
-Here is our app’s repo (LINK) 
+Here is our app’s repo https://github.com/nagimonyc/trk-app  
 Answer the following 2 questions
   1. How does this app work, what is the logic? You may write or draw it out
   2. Comment the code
