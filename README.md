@@ -4,7 +4,7 @@ Welcome to our technical interview. The tasks are split up into folders. All the
 There are 4 folders in this repository, each associated with a different task.
 -
 
-**Folder 1: Static Website** [30 minutes]
+**Folder 1: Static Website** [45 minutes]
 
 Build a replica of this template in JS/React: https://www.figma.com/file/w3cZuebK3N71DxgkA5yjGX/Palladium?type=design&node-id=1%3A2&mode=dev
 
@@ -21,7 +21,7 @@ Answer the following 2 questions
   5. Based on the database images, give a brief explanation of the data structure.
 
 
-**Folder 3: Navigate a Repo** [5 minutes]
+**Folder 3: Code Review** [5 minutes]
 
 Here is our app’s repo https://github.com/nagimonyc/trk-app  
 Answer the following 2 questions
