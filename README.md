@@ -27,6 +27,6 @@ Answer the following 2 questions
 
 
 
-**Bonus Folder** [??? minutes]
+**Bonus Folder** [Bonus points]
 
 Enter https://shell.tech/ – Write down working password(s) as proof of completion.
