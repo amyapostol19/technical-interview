@@ -20,7 +20,8 @@ Answer the following questions based on our company description:
 
 **Folder 3: Code Review** [2 points]
 
-Here is our app’s repo https://github.com/nagimonyc/trk-app  
+Here is our app’s repo: https://github.com/nagimonyc/trk-app
+
 Answer the following 2 questions
   1. Where are new users redirected to when they first launch the app?
   2. What happens to the user's screen upon a successful NFC read?
