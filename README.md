@@ -32,4 +32,4 @@ Answer the following 2 questions
 
 **Bonus Folder** [10 minutes]
 
-Enter https://shell.tech/ -> write down a passcode as proof of completion
+Enter https://shell.tech/ . Write down passcode(s) as proof of completion.
