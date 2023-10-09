@@ -12,7 +12,7 @@ Build a replica of this template in JS/React: https://www.figma.com/file/w3cZueb
 **Folder 2: Database Management** [15 minutes]
 
 Answer the following questions based on our company description:
-Nagimo installs interactive devices on indoor climbing walls to enable climbers to track, upload, and share their performance on our dedicated platform. More specifically, we automate the sports activity logging process for climbers – done manually today. Also, our platform allows gyms (managers/route setters) to configure and monitor their climbs, gain insight into their climbers’ behavior, and receive feedback.
+> Nagimo installs interactive devices on indoor climbing walls to enable climbers to track, upload, and share their performance on our dedicated platform. More specifically, we automate the sports activity logging process for climbers – done manually today. Also, our platform allows gyms (managers/route setters) to configure and monitor their climbs, gain insight into their climbers’ behavior, and receive feedback.
 
 Answer the following 2 questions
 
