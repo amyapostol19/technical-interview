@@ -29,4 +29,6 @@ Answer the following 2 questions
 
 
 **Bonus Folder**
-Enter https://shell.tech/ → write down a passcode as proof of completion
+
+Enter https://shell.tech/ 
+  write down a passcode as proof of completion
