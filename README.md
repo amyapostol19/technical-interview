@@ -1,5 +1,5 @@
 # technical-interview
-Welcome to the nagimo technical interview. The tasks are split up into folders. All the instructions are in the README file
+Welcome to our technical interview. The tasks are split up into folders. All the instructions are in the README file:
 
 There are 4 folders in this repo, each associated with a different task
 -
