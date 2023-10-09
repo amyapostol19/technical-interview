@@ -4,12 +4,12 @@ Welcome to our technical interview. The tasks are split up into folders. All the
 There are 4 folders in this repository, each associated with a different task.
 -
 
-**Folder 1: Static Website** [5 points]
+**Folder 1: Static Website** [6 points]
 
 Build a replica of this template in JS/React: https://www.figma.com/file/w3cZuebK3N71DxgkA5yjGX/Palladium?type=design&node-id=1%3A2&mode=dev
 
 
-**Folder 2: Database Management** [3 points]
+**Folder 2: Database Management** [2 points]
 
 Answer the following questions based on our company description:
 > Nagimo installs interactive devices on indoor climbing walls to enable climbers to track, upload, and share their performance on our dedicated platform. More specifically, we automate the sports activity logging process for climbers – done manually today. Also, our platform allows gyms (managers/route setters) to configure and monitor their climbs, gain insight into their climbers’ behavior, and receive feedback.
