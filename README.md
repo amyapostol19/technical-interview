@@ -14,19 +14,16 @@ Build a replica of this template in JS/React: https://www.figma.com/file/w3cZueb
 Answer the following questions based on our company description:
 > Nagimo installs interactive devices on indoor climbing walls to enable climbers to track, upload, and share their performance on our dedicated platform. More specifically, we automate the sports activity logging process for climbers – done manually today. Also, our platform allows gyms (managers/route setters) to configure and monitor their climbs, gain insight into their climbers’ behavior, and receive feedback.
 
-Answer the following 2 questions
-
   1. Translate this description into a database design. You may write or draw it out.
   3. We use Firestore (NoSQL) to store our application data, why do you think that is? Give a brief explanation.
-  5. Based on the database images, give a brief explanation of the data structure.
 
 
 **Folder 3: Code Review** [2 points]
 
 Here is our app’s repo https://github.com/nagimonyc/trk-app  
 Answer the following 2 questions
-  1. How does this app work, what is the logic? You may write or draw it out
-  2. Comment the code
+  1. Where are new users redirected to when they first launch the app?
+  2. What happens to the user's screen upon a successful NFC read?
 
 
 
