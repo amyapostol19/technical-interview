@@ -1,0 +1,1 @@
+Build a static react page using this template: https://www.figma.com/file/w3cZuebK3N71DxgkA5yjGX/Palladium?type=design&node-id=1%3A2&mode=dev 
