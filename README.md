@@ -4,13 +4,13 @@ Welcome to the nagimo technical interview. The tasks are split up into folders. 
 There are 4 folders in this repo, each associated with a different task
 -
 
-**Folder 1**: Static Website
+**Folder 1: Static Website**
 
 Build a static react page using this template: LINK
 
 
 
-**Folder 2**: Database Management: 
+**Folder 2: Database Management** 
 
 Answer the following 2 questions
 
@@ -19,7 +19,7 @@ Answer the following 2 questions
 
 
 
-**Folder 3**: Repo Review
+**Folder 3: Repo Review**
 
 Here is our app’s repo (LINK) 
 Answer the following 2 questions
