@@ -9,6 +9,7 @@ There are 4 folders in this repo, each associated with a different task
 Build a static react page using this template: LINK
 
 
+
 **Folder 2**: Database Management: 
 
 Answer the following 2 questions
@@ -17,12 +18,14 @@ Answer the following 2 questions
   2. Why pick a NoSQL for nagimo?
 
 
+
 **Folder 3**: Repo Review
 
 Here is our app’s repo (LINK) 
 Answer the following 2 questions
   1. How does this app work, what is the logic? You may write or draw it out
   2. Comment the code
+
 
 
 **Bonus Folder**
