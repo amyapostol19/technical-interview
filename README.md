@@ -1,6 +1,5 @@
 # technical-interview
-Welcome to our technical interview. The tasks are split up into folders. All the instructions are in the README file. 
-Fork this repo and send us an eMail (nagimo.nyc@nagimo.org) with your Repository link when done.
+Welcome to our technical interview. The tasks are split up into folders. All the instructions are in the README file.
 -
 There are 4 folders in this repository, each associated with a different task.
 -
