@@ -1,7 +1,7 @@
 # technical-interview
 Welcome to our technical interview. The tasks are split up into folders. All the instructions are in the README file.
 -
-There are 4 folders in this repository, each associated with a different task.
+There are 4 folders in this repository, each associated with a different task. Upload your answers to the relevant folders and send us an eMail with your repo link once you are done.
 -
 
 **Folder 1: Static Website** [6 points]
