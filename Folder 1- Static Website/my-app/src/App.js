@@ -1,8 +1,10 @@
 import './App.css';
 import image from './Climbers.png';
 import DataBlock from './Components/DataBlock';
+import ClimberData from "./data.json";
 
 function App() {
+
 
   return (
     <div>
@@ -16,16 +18,16 @@ function App() {
       <div id="body">
         <div id="data">
           <div id="dataColumn">
-            <DataBlock/>
-            <DataBlock/>
-            <DataBlock/>
-            <DataBlock/>
+            <DataBlock text="+6% of climbers compared to same day last week."/>
+            <DataBlock text="22 new climbers this week"/>
+            <DataBlock text="42 hours of activity tracked this week"/>
+            <DataBlock text="positive sentiment on climbs has increased by 10% since last week"/>
           </div>
           <div id="dataColumn">
-            <DataBlock/>
-            <DataBlock/>
-            <DataBlock/>
-            <DataBlock/>
+            <DataBlock text="11 climbers came in today"/>
+            <DataBlock text="+3% of climbers since last week"/>
+            <DataBlock text="30% of climbers shared there session on social media"/>
+            <DataBlock text="Let students know the wall has been reset"/>
           </div>
           <div>
             <img src={image}></img>

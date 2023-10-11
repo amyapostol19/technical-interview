@@ -18,16 +18,17 @@
             {
                 "Week": "8/30 - 9/5",
                 "ClimberDailyTotals": {
-                    "Monday": 0,
-                    "Tuesday": 0,
-                    "Wednesday": 0,
-                    "Thursday": 0,
-                    "Friday": 0,
-                    "Saturday":0,
-                    "Sunday": 0
+                    "8/30": 0,
+                    "8/31": 0,
+                    "9/1": 0,
+                    "9/2": 0,
+                    "9/3": 0,
+                    "9/4":0,
+                    "9/5": 11
                 },
                 "ClimberWeeklyTotal": 0,
                 "TotalSharedSocial": 0
             }
-        ]
+        ],
+    "CurrentDay": "9/5"
 }
