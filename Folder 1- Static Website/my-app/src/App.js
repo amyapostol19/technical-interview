@@ -5,7 +5,14 @@ import ClimberData from "./data.json";
 
 function App() {
 
+  /* 
 
+  Plan was to import data from json and use data to dynamically make calculations about information to be displayed on dashboard.
+  I ran out of time importing data.
+  */
+
+
+  const newclimbers = ClimberData.NewClimbersToday;
   return (
     <div>
       <div className="dashboard">
